@@ -6,3 +6,7 @@ Hola, estoy probando el editor VI aquí
 
 
 Acabo de hacer este cambio luego del commit 1
+
+
+
+No se que pasó pero ahora estoy en el master y en el head
